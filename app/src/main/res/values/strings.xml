@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlockingApping</string>
+    <string name="accessibility_service_description">Permite a BlockingApping detectar qué app está abierta para pedir tu huella antes de mostrarla.</string>
+</resources>
